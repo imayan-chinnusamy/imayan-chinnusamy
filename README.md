@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imayan.
 - 👀 I’m interested in Data Engineering.
-- 🌱 I’m currently learning Apache Spark, Python, SQL, Scala, Bash.
+- 🌱 I’m currently learning Apache Spark, Python, SQL.
 - 💞️ I’m looking to collaborate on Data Engineering and Science Projects. 
 - Email: imayanmail@gmail.com
 - LinkedIn: https://www.linkedin.com/in/imayan/
