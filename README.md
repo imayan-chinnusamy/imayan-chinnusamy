@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imayan.
 - 👀 I’m interested in Data/Big Data Engineering.
 - 🌱 I’m currently learning AWS, Apache Spark, Kafka, Python, SQL.
-- 💞️ I’m looking to collaborate on Data/Big Data Engineering and Science development projects. 
+- 💞️ I’m looking to collaborate on Data/Big Data Engineering and Science projects. 
 - Email: imayanmail@gmail.com
 - LinkedIn: https://www.linkedin.com/in/imayan/
